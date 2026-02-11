@@ -1,0 +1,2 @@
+# pierwszeRepo
+Moje pierwsze repo
